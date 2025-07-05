@@ -5,7 +5,7 @@ A professional-grade, drag-and-drop chatbot flow builder built with React and Re
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Demo](https://your-deployment-url.vercel.app)**
+🔗 **[View Live Demo](https://flow-builder-kohl.vercel.app/)**
 
 ## ✨ Features
 
@@ -169,7 +169,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **shadcn/ui** for beautiful UI components
 - **Tailwind CSS** for rapid styling
 - **Lucide** for clean, consistent icons
-
+![ScreenShot](image.png)
 ---
 
 **Built with ❤️ and modern web technologies**
